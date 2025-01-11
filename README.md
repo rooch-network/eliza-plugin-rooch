@@ -1,6 +1,3 @@
-Here is the updated README.md in Markdown format, reflecting the feedback provided:
-
-```markdown
 # @elizaos/plugin-rooch
 
 Core Rooch blockchain plugin for Eliza OS that provides essential services and actions for wallet management and token operations on the Rooch network.
@@ -163,10 +160,3 @@ For more information about Rooch blockchain capabilities:
 ## License
 
 This plugin is part of the Eliza project. See the main project repository for license information.
-```
-
-Changes made based on feedback:
-1. Clarified that RGas is used for gas consumption instead of a platform token.
-2. Corrected the SDK name to `@roochnetwork/rooch-sdk`.
-3. Updated the links to Rooch's official website, documentation, and GitHub repository.
-4. Added clarity on functionality with RGas.
